@@ -38,6 +38,8 @@ IS_SUCCESSFUL—Was the money used effectively
 
 3: Optimize the Model
 
+---
+
 ## RESULTS:
 
 ### Data Preprocessing
