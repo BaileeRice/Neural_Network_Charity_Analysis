@@ -57,11 +57,13 @@ The 'IS_SUCCESFUL' column is our target in this model since we are looking to fi
 ![image](https://user-images.githubusercontent.com/105184244/202612184-470d2813-9b8b-4a60-9b8c-b5f3d4f2cf53.png)
 
 
+
 -What variable(s) are neither targets nor features, and should be removed from the input data?
 
 The identification columns like 'EIN' and 'NAME' are what should be removed
 
 ![image](https://user-images.githubusercontent.com/105184244/202612324-88997834-8912-4b5f-9054-79491c4ee229.png)
+
 
 
 -What variable(s) are considered to be the features for your model?
@@ -70,11 +72,13 @@ After dropping the ID columns and isolating the target column(IS_SUCCESSFUL), we
 
 ### Compiling, Training, and Evaluating the Model
 
+
 -How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 Through trial and error I ended up with two hidden layers and an output layer, first with 100 nuerons, second with 50 and the output containing just 1
 
 ![image](https://user-images.githubusercontent.com/105184244/202612423-acbd2050-bc7a-4e20-9d59-d54f34ce77a3.png)
+
 
 
 -Were you able to achieve the target model performance?
@@ -83,6 +87,7 @@ I ended up only getting the model to a 46.7% accuracy score in the beginning, so
 
 ![image](https://user-images.githubusercontent.com/105184244/202612512-2e0bcbf2-da95-4a22-9632-5592c3116933.png)
 ![image](https://user-images.githubusercontent.com/105184244/202612558-db0de189-01c0-451d-98fe-05f0fd0506ec.png)
+
 
 
 -What steps did you take to try and increase model performance?
