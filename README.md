@@ -1,5 +1,8 @@
 # Neural_Network_Charity_Analysis
 
+![image](https://user-images.githubusercontent.com/105184244/202613233-90f39096-0033-4f64-a5bb-50954a3cbccc.png)
+
+
 ## OVERVIEW:
 
 With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to help create a binary classifier that is capable of predicting whether applicants will be successful if funded by company.
