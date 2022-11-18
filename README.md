@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 
-![image](https://user-images.githubusercontent.com/105184244/202613262-4b3fa60b-79b5-44dd-9f45-b43c8ed0300a.png)
+![image](https://user-images.githubusercontent.com/105184244/202613356-4a2717d2-d6ef-4ced-9f19-f8a6b2f07b24.png)
 
 
 ## OVERVIEW:
