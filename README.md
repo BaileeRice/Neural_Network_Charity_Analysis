@@ -8,7 +8,7 @@
 
 ## OVERVIEW:
 
-With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to help create a binary classifier that is capable of predicting whether applicants will be successful if funded by company.
+With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to help create a binary classifier that is capable of predicting whether applicants will be successful if funded by a company.
 
 Your given a CSV containing more than 34,000 organizations that have received funding from said company. Within this dataset are a number of columns that capture metadata about each organization, such as the following:
 
